@@ -6,15 +6,18 @@
     "content": {
         "page1": {
           "title": "This is Page1",
-          "url": "https://www.google.com"
+          "url": "https://www.google.com",
+          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
         },
         "page2": {
           "title": "This is Page2",
-          "url": "https://www.google.com"
+          "url": "https://www.google.com",
+          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
         },
         "page3": {
           "title": "This is Page3",
-          "url": "https://www.google.com"
+          "url": "https://www.google.com",
+          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
         }
       }
 }
