@@ -3,20 +3,28 @@
         "name": "Server Guide",
         "color": "#ffffff"
     },
+    
+    
+    "ads":{
+        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialId": "ca-app-pub-3940256099942544/1033173712"
+    },
+    
+    
     "content": {
         "page1": {
           "title": "This is Page1",
-          "url": "https://www.google.com",
+          "url": "https://raw.githubusercontent.com/Ess-Soft/static-web/master/page1.html",
           "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
         },
         "page2": {
           "title": "This is Page2",
-          "url": "https://www.google.com",
+          "url": "https://raw.githubusercontent.com/Ess-Soft/static-web/master/page2.html",
           "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
         },
         "page3": {
           "title": "This is Page3",
-          "url": "https://www.google.com",
+          "url": "https://raw.githubusercontent.com/Ess-Soft/static-web/master/page2.html",
           "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
         },
         "page4": {
