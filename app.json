@@ -20,7 +20,7 @@
         "page2": {
           "title": "This is Page2",
           "url": "https://ess-soft.github.io/static-web/page2.html",
-          "img": "http://pngimg.com/uploads/ak47/ak47_PNG15466.png"
+          "img": "https://frescolib.org/static/logo.png"
         },
         "page3": {
           "title": "This is Page3",
