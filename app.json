@@ -15,47 +15,47 @@
         "page1": {
           "title": "This is Page1",
           "url": "https://ess-soft.github.io/static-web/page1.html",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/binocular/binocular_PNG12928.png"
         },
         "page2": {
           "title": "This is Page2",
           "url": "https://ess-soft.github.io/static-web/page2.html",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/ak47/ak47_PNG15466.png"
         },
         "page3": {
           "title": "This is Page3",
           "url": "https://ess-soft.github.io/static-web/page2.html",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/%D1%81annon/%D1%81annon_PNG42.png"
         },
         "page4": {
           "title": "This is Page4",
           "url": "https://ess-soft.github.io/static-web/page1.html",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/dynamite/dynamite_PNG28.png"
         },
         "page5": {
           "title": "This is Page5",
           "url": "https://www.google.com",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/jet_fighter/jet_fighter_PNG83.png"
         },
         "page6": {
           "title": "This is Page6",
           "url": "https://www.google.com",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/scope/scope_PNG13062.png"
         },
         "page7": {
           "title": "This is Page7",
           "url": "https://ess-soft.github.io/static-web/page1.html",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/tank/tank_PNG1298.png"
         },
         "page8": {
           "title": "This is Page8",
           "url": "https://www.google.com",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/time_bomb/time_bomb_PNG9.png"
         },
         "page9": {
           "title": "This is Page9",
           "url": "https://www.google.com",
-          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+          "img": "http://pngimg.com/uploads/gun/gun_PNG1352.png"
         }
       }
 }
