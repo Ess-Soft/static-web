@@ -41,6 +41,21 @@
           "title": "This is Page6",
           "url": "https://www.google.com",
           "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+        },
+        "page7": {
+          "title": "This is Page7",
+          "url": "https://ess-soft.github.io/static-web/page1.html",
+          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+        },
+        "page8": {
+          "title": "This is Page8",
+          "url": "https://www.google.com",
+          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
+        },
+        "page9": {
+          "title": "This is Page9",
+          "url": "https://www.google.com",
+          "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/small-18-123234.png"
         }
       }
 }
