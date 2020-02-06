@@ -2,6 +2,7 @@
   "ads": {
     "app1": {
       "packageName": "com.google.android.apps.searchlite",
+      "icon": "https://lh3.googleusercontent.com/RZ5luCUwc5QtJP9xDn-ZCwEutT160GVyoh5K1eu4YJ5fD7v4LP5ptVdgR9mz4Hnr7A=s180-rw",
       "appName": "Google Go: A lighter, faster way to search",
       "developer": "Google LLC",
       "shortDescription": "Google Go is a lighter, faster way to search, with search results optimised to save up to 40% data.",
