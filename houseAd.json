@@ -1,15 +1,6 @@
 {
   "ads": {
     "app1": {
-      "packageName": "com.google.android.apps.searchlite",
-      "icon": "https://lh3.googleusercontent.com/RZ5luCUwc5QtJP9xDn-ZCwEutT160GVyoh5K1eu4YJ5fD7v4LP5ptVdgR9mz4Hnr7A=s180-rw",
-      "appName": "Google Go: A lighter, faster way to search",
-      "developer": "Google LLC",
-      "shortDescription": "Google Go is a lighter, faster way to search, with search results optimised to save up to 40% data.",
-      "rating": "4.7",
-      "totalReviews": "245256"
-    },
-    "app2": {
       "packageName": "com.kakao.talk",
       "icon": "https://lh3.googleusercontent.com/KwGCiEolNEeR9Q4RFOnDtb8Pvqs3LNiQEdE07wMCnoULO3yLUprHbGGLBYNEt8k7WJY=s180-rw",
       "appName": "KakaoTalk: Free Calls & Text",
@@ -17,6 +8,15 @@
       "shortDescription": "KakaoTalk is a fast & multifaceted messaging app. Send messages, photos, videos, voice notes and your location for free. Make chatting extra fun with an array of emoticons and sticker collections.",
       "rating": "4.5",
       "totalReviews": "256325"
+    },
+    "app2": {
+      "packageName": "com.google.android.apps.searchlite",
+      "icon": "https://lh3.googleusercontent.com/RZ5luCUwc5QtJP9xDn-ZCwEutT160GVyoh5K1eu4YJ5fD7v4LP5ptVdgR9mz4Hnr7A=s180-rw",
+      "appName": "Google Go: A lighter, faster way to search",
+      "developer": "Google LLC",
+      "shortDescription": "Google Go is a lighter, faster way to search, with search results optimised to save up to 40% data.",
+      "rating": "4.7",
+      "totalReviews": "245256"
     }
   }
   
