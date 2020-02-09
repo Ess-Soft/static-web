@@ -1,12 +1,12 @@
 {
   "ads": {
     "app1": {
-      "packageName": "com.kakao.talk",
-      "icon": "https://lh3.googleusercontent.com/KwGCiEolNEeR9Q4RFOnDtb8Pvqs3LNiQEdE07wMCnoULO3yLUprHbGGLBYNEt8k7WJY=s180-rw",
-      "appName": "KakaoTalk: Free Calls & Text",
+      "packageName": "com.turbo_vid.player",
+      "icon": "https://lh3.googleusercontent.com/pMen6dDBO5icyDQSxRsGlH5HdzyBvhebH18mgnfqCH0hFyA_3f7IIJ7Q9ebdLg8CCCQ=s180-rw",
+      "appName": "Turbo Vid Player: Play FREE Music & Videos",
       "developer": "Kakao Corporation",
-      "shortDescription": "KakaoTalk is a fast & multifaceted messaging app. Send messages, photos, videos, voice notes and your location for free. Make chatting extra fun with an array of emoticons and sticker collections.",
-      "rating": "4.5",
+      "shortDescription": "Turbo Vid player is a free music and video player for you to enjoy listening to music and watching videos on your phone !",
+      "rating": "4.8",
       "totalReviews": "256325",
       "apkUrl": "https://snaptube.io/installer/latest/SnaptubePro.apk"
     },
