@@ -14,22 +14,22 @@
     "content": {
         "page1": {
           "title": "This is Page1",
-          "url": "https://ess-soft.github.io/static-web/page1.html",
+          "url": "https://essare.github.io/static-web/page1.html",
           "img": "https://www.freepngimg.com/thumb/gun/4-revolver-handgun-png-image-thumb.png"
         },
         "page2": {
           "title": "This is Page2",
-          "url": "https://ess-soft.github.io/static-web/page2.html",
+          "url": "https://essare.github.io/static-web/page2.html",
           "img": "https://www.freepngimg.com/thumb/gun/10-handgun-png-image-thumb.png"
         },
         "page3": {
           "title": "This is Page3",
-          "url": "https://ess-soft.github.io/static-web/page2.html",
+          "url": "https://essare.github.io/static-web/page2.html",
           "img": "https://www.freepngimg.com/thumb/assault%20rifle/1-assault-rifle-png-thumb.png"
         },
         "page4": {
           "title": "This is Page4",
-          "url": "https://ess-soft.github.io/static-web/page1.html",
+          "url": "https://essare.github.io/static-web/page1.html",
           "img": "https://www.freepngimg.com/thumb/gun/6-makarov-russian-handgun-png-image-thumb.png"
         },
         "page5": {
@@ -44,7 +44,7 @@
         },
         "page7": {
           "title": "This is Page7",
-          "url": "https://ess-soft.github.io/static-web/page1.html",
+          "url": "https://essare.github.io/static-web/page1.html",
           "img": "https://www.freepngimg.com/thumb/bullets/3-bullets-png-image-thumb.png"
         },
         "page8": {
@@ -54,7 +54,7 @@
         },
         "page9": {
           "title": "This is Page9",
-          "url": "https://www.google.com",
+          "url": "https://essare.github.io/static-web/page2.html",
           "img": "https://www.freepngimg.com/thumb/helicopter/10-helicopter-png-image-thumb.png"
         }
       }
