@@ -13,17 +13,17 @@
     
     "content": {
         "page1": {
-          "title": "This is Page1",
+          "title": "What is Covid-19 ?",
           "url": "https://essare.github.io/static-web/page1.html",
           "img": "https://www.freepngimg.com/thumb/gun/4-revolver-handgun-png-image-thumb.png"
         },
         "page2": {
-          "title": "This is Page2",
+          "title": "Covid-19's Syndrome",
           "url": "https://essare.github.io/static-web/page2.html",
           "img": "https://www.freepngimg.com/thumb/gun/10-handgun-png-image-thumb.png"
         },
         "page3": {
-          "title": "This is Page3",
+          "title": "Protect yourself from Covid-19",
           "url": "https://essare.github.io/static-web/page2.html",
           "img": "https://www.freepngimg.com/thumb/assault%20rifle/1-assault-rifle-png-thumb.png"
         },
